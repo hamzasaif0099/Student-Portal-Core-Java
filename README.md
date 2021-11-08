@@ -1,1 +1,1 @@
-# Student-Portal-Core-Java
+# Core-Java-Student-Portal
